@@ -1,5 +1,4 @@
 # Classification-Models
-# Prediction with Regression
 
 ## iPhone Purchase Prediction
 Project 5 - iphone_prj5

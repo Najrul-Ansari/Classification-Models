@@ -2,8 +2,10 @@
 
 ## iPhone Purchase Prediction
 Project 8 - iphone_purchase_prj8
+
 Iphone Purchases are getting increased day by day and many stores wants to predict whether a customer will purchase an Iphone 
 from thier store given their gender, age and salary.
+
 + Dataset name - iphone_purchase_records.csv
 
 + Objective  - Whether Customer will purchase or not

@@ -71,10 +71,10 @@ and each leaf node represents the predicted outcome.
   •	Model Evaluation - In the model evaluation section, the performance of the trained machine learning models is assessed to select the best suited model for deployment.
 
 
-  ## Campany Sales Prediction
-  Project-9 - company_data_prj_9
+## Campany Sales Prediction
+Project-9 - company_data_prj_9
 
-  + Dataset name - Company_Data.csv is the raw data and Company_Data_cleaned.csv is the processed data for model. Both the dataset are in the dataset.zip file.
++ Dataset name - Company_Data.csv is the raw data and Company_Data_cleaned.csv is the processed data for model. Both the dataset are in the dataset.zip file.
 
 + Objective - A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 

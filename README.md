@@ -129,3 +129,6 @@ Project-10 - fraud_check_prj_10
   •	Model Training - In the model training section, the processed data is fit to train the selected model so that it is able to predict the future entered data.
 
   •	Model Evaluation - In the model evaluation section, the performance of the trained machine learning models is assessed to select the best suited model for deployment.
+
+
+  

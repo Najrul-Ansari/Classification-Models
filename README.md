@@ -4,6 +4,7 @@ Project - 7 - Bank_prj_7
 
 
 
+
 + Dataset name - bank-full.csv is the raw data and bank-full_cleaned.csv is the processed data for model. Both the dataset are in the dataset.zip file.
 
 
